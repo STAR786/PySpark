@@ -1,3 +1,5 @@
+```IMPORT THIS NOTEBOOK ON YOUR DATABRICKS COMMUNITY EDITION(remove this line before importing)
+
 # Databricks notebook source
 # MAGIC 
 # MAGIC %md
